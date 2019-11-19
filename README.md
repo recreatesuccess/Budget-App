@@ -6,3 +6,7 @@ I also had the opportunity to use C.R.U.D (Create, Read, Update, Delete) operati
 
 The styling is very clean and minimalistic, with an emphasis on an enhanced user experience. 
 
+A screenshot is shown below:
+
+![alt text](https://raw.githubusercontent.com/recreatesuccess/Budget-App/master/img/BudgetAppScreen.png)
+
